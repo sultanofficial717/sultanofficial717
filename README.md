@@ -13,7 +13,7 @@
 <p align="center">
 
 <a href="https://github.com/sultanofficial717">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/sultanofficial717?style=for-the-badge&logo=github"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=sultanofficial717&style=for-the-badge&color=blueviolet"/>
