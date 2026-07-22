@@ -152,7 +152,7 @@ class TalhaRehman:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sultanofficial717&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -162,7 +162,7 @@ class TalhaRehman:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sultanofficial717&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -172,7 +172,7 @@ class TalhaRehman:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sultanofficial717&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 
 </p>
 
