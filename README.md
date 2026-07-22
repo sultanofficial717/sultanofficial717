@@ -1,6 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=260&section=header&text=TALHA%20REHMAN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Founder%20%7C%20Researcher&descAlignY=58&descSize=18"/>
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="55%" stop-color="#151B3B"/>
+      <stop offset="100%" stop-color="#2A2470"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+  <rect width="1200" height="220" fill="url(#grid)"/>
+
+  <circle cx="1080" cy="45" r="2" fill="#22D3EE" opacity="0.8"/>
+  <circle cx="1120" cy="90" r="2" fill="#818CF8" opacity="0.7"/>
+  <circle cx="1150" cy="150" r="2" fill="#22D3EE" opacity="0.6"/>
+  <circle cx="60" cy="170" r="2" fill="#818CF8" opacity="0.6"/>
+  <circle cx="110" cy="40" r="2" fill="#22D3EE" opacity="0.5"/>
+
+  <rect x="0" y="0" width="6" height="220" fill="url(#accentGrad)"/>
+
+  <text x="60" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC" letter-spacing="1">TALHA REHMAN</text>
+  <text x="60" y="145" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#A5B4FC">AI Engineer &#8226; Founder, HAT Technologies &#8226; Researcher</text>
+
+  <rect x="60" y="165" width="130" height="3" rx="1.5" fill="url(#accentGrad)"/>
+</svg>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=4F46E5&center=true&vCenter=true&width=800&lines=Founder+%40+HAT+Technologies;AI+%2F+ML+Engineer+%26+Researcher;Building+Applied+AI+Products;LangChain+%7C+RAG+%7C+Computer+Vision" />
@@ -203,6 +234,6 @@ A comprehensive survey on ransomware detection and defense, targeting top-tier v
 
 > *"Artificial Intelligence is not about replacing humans — it's about amplifying human potential."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0F172A&height=100&section=footer"/>
 
 </div>
