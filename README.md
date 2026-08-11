@@ -95,6 +95,8 @@
 
 <div align="center" style="padding: 48px 24px; border-radius: 16px; background: linear-gradient(135deg, #0B1020 0%, #1E1B4B 55%, #312E81 100%);">
 
+<img src="https://raw.githubusercontent.com/sultanofficial717/sultanofficial717/main/face-avatar.svg" width="150" alt="animated avatar">
+
 <h1 style="margin:0; font-size: 40px; background: linear-gradient(90deg,#FFFFFF,#A5B4FC); -webkit-background-clip: text; background-clip: text; color: transparent;">Applied AI, Shipped to Production</h1>
 
 <p style="font-size: 16px; color: #C7D2FE; max-width: 640px; margin: 12px auto 24px;">Founder of HAT Technologies — I design and ship AI agents, RAG systems, and computer vision products for clients across the UK, US, UAE, Qatar, and Canada.</p>
