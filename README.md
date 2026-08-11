@@ -115,6 +115,20 @@
 
 <br>
 
+## 📖 Table of Contents
+
+- [🧭 About Me](#-about-me)
+- [⚙️ What I Build](#️-what-i-build)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🚀 Featured Projects](#-featured-projects)
+- [📄 Research & Publications](#-research--publications)
+- [📖 Currently Learning](#-currently-learning)
+- [🎯 2026 Goals](#-2026-goals)
+- [🤝 Connect With Me](#-connect-with-me)
+
+<br>
+
 ## 🧭 About Me
 
 I'm an **AI Engineer** and **Founder of HAT Technologies**, an applied AI software agency delivering solutions to clients across the UK, US, UAE, Qatar, and Canada. Alongside client work, I lead the **AI Club at Bahria University**, I'm an active community member of **GDG (Google Developer Group) Islamabad**, and I'm an **OpenAI Ambassador**. I also work on applied research spanning cryptography, cybersecurity surveys, and large-scale NLP-driven forecasting — plus freelance AI/ML engineering on Upwork.
@@ -233,6 +247,9 @@ Academic work in cryptography and cybersecurity, plus large-scale data science f
 
 ## 📊 GitHub Analytics
 
+<details open>
+<summary>Click to expand stats, streaks, and trophies</summary>
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sultanofficial717&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanofficial717&layout=compact&theme=tokyonight&hide_border=true">
@@ -263,9 +280,14 @@ Academic work in cryptography and cybersecurity, plus large-scale data science f
   </picture>
 </p>
 
+</details>
+
 <br>
 
 ## 🚀 Featured Projects
+
+<details open>
+<summary>Click to expand project list</summary>
 
 <table>
 <tr>
@@ -324,9 +346,14 @@ Internal platform under active design for HAT Technologies — a reusable operat
 </tr>
 </table>
 
+</details>
+
 <br>
 
 ## 📄 Research & Publications
+
+<details open>
+<summary>Click to expand publications</summary>
 
 <table>
 <tr>
@@ -350,6 +377,8 @@ Co-authored with Adil Khan • Major Revision, Likely Accept — Targeting Q1 ve
 </td>
 </tr>
 </table>
+
+</details>
 
 <br>
 
