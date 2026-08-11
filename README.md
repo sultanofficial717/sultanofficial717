@@ -87,6 +87,32 @@
 
 <br>
 
+<div align="center">
+
+<table width="100%">
+<tr>
+<td>
+
+<div align="center" style="padding: 48px 24px; border-radius: 16px; background: linear-gradient(135deg, #0B1020 0%, #1E1B4B 55%, #312E81 100%);">
+
+<h1 style="margin:0; font-size: 40px; background: linear-gradient(90deg,#FFFFFF,#A5B4FC); -webkit-background-clip: text; background-clip: text; color: transparent;">Applied AI, Shipped to Production</h1>
+
+<p style="font-size: 16px; color: #C7D2FE; max-width: 640px; margin: 12px auto 24px;">Founder of HAT Technologies — I design and ship AI agents, RAG systems, and computer vision products for clients across the UK, US, UAE, Qatar, and Canada.</p>
+
+<a href="https://hattechnologies.tech"><img src="https://img.shields.io/badge/View_HAT_Technologies-6366F1?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/sultanofficial717?tab=repositories"><img src="https://img.shields.io/badge/See_My_Work-22D3EE?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Get_In_Touch-FFFFFF?style=for-the-badge&logoColor=black"></a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 ## 🧭 About Me
 
 I'm an **AI Engineer** and **Founder of HAT Technologies**, an applied AI software agency delivering solutions to clients across the UK, US, UAE, Qatar, and Canada. Alongside client work, I lead the **AI Club at Bahria University**, I'm an active community member of **GDG (Google Developer Group) Islamabad**, and I'm an **OpenAI Ambassador**. I also work on applied research spanning cryptography, cybersecurity surveys, and large-scale NLP-driven forecasting — plus freelance AI/ML engineering on Upwork.
