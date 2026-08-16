@@ -1,277 +1,110 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Readme/main/emojis/handshake.gif" width="28px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚍𝚎𝚟𝚜/&gt;! 𝙸'𝚖 𝚃𝚊𝚕𝚑𝚊
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Readme/main/emojis/wave.gif" width="34px"/>
+</h1>
 
-<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#04050C"/>
-      <stop offset="45%" stop-color="#10163A"/>
-      <stop offset="100%" stop-color="#2B1B78"/>
-    </linearGradient>
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#818CF8"/>
-      <stop offset="50%" stop-color="#6366F1"/>
-      <stop offset="100%" stop-color="#22D3EE"/>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#C7D2FE"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
-    </pattern>
-    <filter id="blurSoft"><feGaussianBlur stdDeviation="20"/></filter>
-    <filter id="nodeGlow"><feGaussianBlur stdDeviation="2.4"/></filter>
-  </defs>
+<br/>
 
-  <rect width="1200" height="260" fill="url(#bgGrad)"/>
-  <rect width="1200" height="260" fill="url(#grid)"/>
+<img align="right" height="260" width="360" alt="AI GIF" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Readme/main/robot/rotating-earth.gif"/>
 
-  <circle cx="990" cy="60" r="190" fill="url(#glow1)" filter="url(#blurSoft)"/>
-  <circle cx="1130" cy="205" r="160" fill="url(#glow2)" filter="url(#blurSoft)"/>
+- 🔭 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **AutismLens** (multimodal FYP) 𝚊𝚗𝚍 𝚝𝚑𝚎 **Brazil Energy Forecasting** pipeline 𝚊𝚝 𝚝𝚑𝚎 𝙵𝙰𝚂𝚃 Data Insight Lab.
+- 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝙰𝙸, 𝙼𝙲𝙿, 𝚊𝚗𝚍 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗-𝚐𝚛𝚊𝚍𝚎 𝚁𝙰𝙶.**
+- 👯 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚁𝙰𝙶 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚟𝚒𝚜𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚊𝚙𝚙𝚕𝚒𝚎𝚍 𝙰𝙸 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑.**
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝚁𝙰𝙶 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜, 𝚌𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝚘𝚛 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗 𝚊𝚐𝚎𝚗𝚌𝚢 𝚊𝚜 𝚊 𝚜𝚝𝚞𝚍𝚎𝚗𝚝.**
+- 📫 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 **talharehman717@gmail.com**
+- ⚡ 𝙼𝚘𝚝𝚝𝚘: *"𝙱𝚞𝚒𝚕𝚍 𝙰𝙸 𝚝𝚑𝚊𝚝 𝚜𝚘𝚕𝚟𝚎𝚜 𝚛𝚎𝚊𝚕, 𝚖𝚎𝚊𝚜𝚞𝚛𝚊𝚋𝚕𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜."*
 
-  <g stroke="#818CF8" stroke-opacity="0.55" stroke-width="1.2">
-    <line x1="820" y1="60" x2="920" y2="38"/>
-    <line x1="820" y1="60" x2="890" y2="118"/>
-    <line x1="920" y1="38" x2="1000" y2="70"/>
-    <line x1="920" y1="38" x2="890" y2="118"/>
-    <line x1="890" y1="118" x2="1000" y2="70"/>
-    <line x1="1000" y1="70" x2="1095" y2="52"/>
-    <line x1="1000" y1="70" x2="1070" y2="140"/>
-    <line x1="890" y1="118" x2="985" y2="175"/>
-    <line x1="985" y1="175" x2="1070" y2="140"/>
-    <line x1="1070" y1="140" x2="1145" y2="100"/>
-    <line x1="1095" y1="52" x2="1145" y2="100"/>
-  </g>
-  <g fill="#22D3EE" filter="url(#nodeGlow)">
-    <circle cx="820" cy="60" r="4"/>
-    <circle cx="920" cy="38" r="3.5"/>
-    <circle cx="890" cy="118" r="5"/>
-    <circle cx="1000" cy="70" r="4.5"/>
-    <circle cx="1095" cy="52" r="3.5"/>
-    <circle cx="1070" cy="140" r="5"/>
-    <circle cx="985" cy="175" r="4"/>
-    <circle cx="1145" cy="100" r="3.5"/>
-  </g>
+<br/>
+<br/>
 
-  <rect x="0" y="0" width="7" height="260" fill="url(#accentGrad)"/>
+<p align="center">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=sultanofficial717&style=flat&color=6366F1"/> •
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/sultanofficial717?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/sultanofficial717?label=Stars" alt="Total Stars"/> •
+  <img src="https://img.shields.io/badge/OpenAI_Ambassador-412991?style=flat&logo=openai&logoColor=white"/>
+</p>
 
-  <text x="64" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="url(#textGrad)" letter-spacing="1.5">TALHA REHMAN</text>
-  <text x="64" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#C7D2FE">AI Engineer • Founder, HAT Technologies • BS AI, Bahria University</text>
+#
 
-  <rect x="64" y="168" width="150" height="4" rx="2" fill="url(#accentGrad)"/>
+📖 **𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎**
+AI undergraduate specializing in RAG systems, computer vision, and full-stack AI applications. Co-authoring a peer-reviewed paper on multimodal RAG at Cradle Labs, Islamabad. Founded and led a 50+ member university AI community; OpenAI Ambassador and GDG Islamabad community member. Founder of HAT Technologies, an applied AI agency serving clients across the UK, US, UAE, Qatar, and Canada.
 
-  <text x="64" y="200" font-family="Consolas, Menlo, monospace" font-size="14" fill="#818CF8" opacity="0.9">&lt;/&gt; building applied AI systems that ship, not just demo</text>
-  <text x="64" y="228" font-family="Consolas, Menlo, monospace" font-size="13" fill="#64748B">Islamabad, Pakistan • Serving clients in UK • US • UAE • Qatar • Canada</text>
-</svg>
+#
 
-<br>
+![trophy](https://github-profile-trophy.vercel.app/?username=sultanofficial717&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Shipping+production+AI+for+global+clients;Building+multi-agent+%26+RAG+systems;Researching+cryptography+%26+cybersecurity;Leading+the+AI+Club+at+Bahria+University&font=Fira+Code&center=true&width=700&height=45&color=818CF8&vCenter=true&size=20&pause=1800&background=00000000">
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanofficial717&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br>
+#
 
-<img src="https://img.shields.io/badge/BS_Artificial_Intelligence-Bahria_University-0F172A?style=for-the-badge&labelColor=4F46E5">
-<img src="https://img.shields.io/badge/OpenAI_Ambassador-0F172A?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991">
-<img src="https://img.shields.io/github/followers/sultanofficial717?style=for-the-badge&logo=github&label=Followers&color=0F172A&labelColor=4F46E5">
-<img src="https://komarev.com/ghpvc/?username=sultanofficial717&style=for-the-badge&color=0F172A&labelColor=06B6D4&label=Profile+Views">
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 
-</div>
+<br/>
 
-<br>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=python"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cpp"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=js"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=ts"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=html"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=css"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=react"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/></code>
 
-<div align="center">
+#
 
-<table width="100%">
-<tr>
-<td>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=fastapi"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=flask"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=mongodb"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=postgres"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=git"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=github"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=docker"/></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=linux"/></code>
 
-<div align="center" style="padding: 48px 24px; border-radius: 16px; background: linear-gradient(135deg, #0B1020 0%, #1E1B4B 55%, #312E81 100%);">
+<p align="center"><sub><b>Expert:</b> Python • RAG Systems (LangChain, Pinecone) • Computer Vision (OpenCV) • Git/GitHub • SQL &nbsp;|&nbsp; <b>Proficient:</b> scikit-learn, Flask, FastAPI, Streamlit, MongoDB, C++ &nbsp;|&nbsp; <b>Familiar:</b> NLP/embeddings, TypeScript, Generative AI APIs</sub></p>
 
-<img src="https://raw.githubusercontent.com/sultanofficial717/sultanofficial717/main/face-avatar.svg" width="150" alt="animated avatar">
+<br/>
 
-<h1 style="margin:0; font-size: 40px; background: linear-gradient(90deg,#FFFFFF,#A5B4FC); -webkit-background-clip: text; background-clip: text; color: transparent;">Applied AI, Shipped to Production</h1>
+#
 
-<p style="font-size: 16px; color: #C7D2FE; max-width: 640px; margin: 12px auto 24px;">Founder of HAT Technologies — I design and ship AI agents, RAG systems, and computer vision products for clients across the UK, US, UAE, Qatar, and Canada.</p>
+<details open="">
+<summary>
+  📈 <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :</strong>
+</summary>
+<br/>
 
-<a href="https://hattechnologies.tech"><img src="https://img.shields.io/badge/View_HAT_Technologies-6366F1?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/sultanofficial717?tab=repositories"><img src="https://img.shields.io/badge/See_My_Work-22D3EE?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Get_In_Touch-FFFFFF?style=for-the-badge&logoColor=black"></a>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanofficial717&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanofficial717&theme=tokyonight&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
 
-</div>
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=sultanofficial717&theme=react-dark&hide_border=true&area=true)
 
-</td>
-</tr>
-</table>
+<h4 align="center">
 
-</div>
-
-<br>
-
-## 📖 Table of Contents
-
-- [🧭 About Me](#-about-me)
-- [⚙️ What I Build](#️-what-i-build)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🚀 Featured Projects](#-featured-projects)
-- [📄 Research & Publications](#-research--publications)
-- [📖 Currently Learning](#-currently-learning)
-- [🎯 2026 Goals](#-2026-goals)
-- [🤝 Connect With Me](#-connect-with-me)
-
-<br>
-
-## 🧭 About Me
-
-I'm an **AI Engineer** and **Founder of HAT Technologies**, an applied AI software agency delivering solutions to clients across the UK, US, UAE, Qatar, and Canada. Alongside client work, I lead the **AI Club at Bahria University**, I'm an active community member of **GDG (Google Developer Group) Islamabad**, and I'm an **OpenAI Ambassador**. I also work on applied research spanning cryptography, cybersecurity surveys, and large-scale NLP-driven forecasting — plus freelance AI/ML engineering on Upwork.
-
-```python
-class TalhaRehman:
-    def __init__(self):
-        self.role          = "Founder @ HAT Technologies | AI Engineer | OpenAI Ambassador"
-        self.education     = "BS Artificial Intelligence, Bahria University Islamabad"
-        self.focus         = ["LLM Applications", "RAG Systems", "AI Agents", "Computer Vision", "NLP Pipelines"]
-        self.leadership    = ["Lead, AI Club @ Bahria University", "Community Member, GDG Islamabad"]
-        self.research      = ["Applied Cryptography", "Cybersecurity Surveys", "Energy Price Forecasting"]
-        self.currently_building = ["AutismLens — multimodal autism-screening AI", "Whitelabel AI agency OS for HAT Technologies"]
-
-    def philosophy(self) -> str:
-        return "Build AI that solves real, measurable problems."
-
-me = TalhaRehman()
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@        ___                                          @@
+@@       /   \        "Ship it. Measure it.            @@
+@@      | o o |         Then make it better."           @@
+@@       \_-_/                                         @@
+@@      /|   |\      .------------------------.        @@
+@@     / |   | \     | while(!model.is_shipped) |       @@
+@@    /  |___|  \    '------------------------'        @@
+@@       |   |                                          @@
+@@       |   |        The model that never ships        @@
+@@      _|   |_       teaches you nothing.              @@
+@@     (_______)                                        @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-<br>
+</h4>
 
-## ⚙️ What I Build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🧠 AI Products**
-Designing and shipping production-grade AI applications for agency clients, from prototype to deployment.
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 Agentic Systems**
-Multi-agent workflows and automation pipelines using modern LLM tooling and orchestration frameworks.
-
-</td>
-<td width="33%" valign="top">
-
-**📚 RAG Architectures**
-Multimodal retrieval-augmented generation over text, images, and documents at production scale.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**👁️ Computer Vision**
-Detection, OCR, and assistive-tech applications for real-world deployment.
-
-</td>
-<td width="33%" valign="top">
-
-**⚡ Backend Systems**
-High-performance APIs and services with FastAPI and Node.js.
-
-</td>
-<td width="33%" valign="top">
-
-**🔬 Applied Research**
-Academic work in cryptography and cybersecurity, plus large-scale data science forecasting.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<table>
-<tr><td width="150"><b>Languages</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts">
-
-</td></tr>
-<tr><td valign="top"><b>AI / ML</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"><br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square">
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white">
-<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square">
-<img src="https://img.shields.io/badge/FAISS-00618A?style=flat-square">
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square">
-<img src="https://img.shields.io/badge/Sentence--BERT-FFB000?style=flat-square">
-
-</td></tr>
-<tr><td valign="top"><b>Backend & APIs</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs">
-
-</td></tr>
-<tr><td valign="top"><b>Databases</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase">
-
-</td></tr>
-<tr><td valign="top"><b>Cloud & DevOps</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,gcp,vercel">
-
-</td></tr>
-<tr><td valign="top"><b>Frontend</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind">
-
-</td></tr>
-</table>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<details open>
-<summary>Click to expand stats, streaks, and trophies</summary>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sultanofficial717&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanofficial717&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sultanofficial717&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sultanofficial717&theme=tokyo-night&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sultanofficial717&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4">
-</p>
-
-<!--
-  🐍 Contribution snake — requires a one-time GitHub Actions setup.
-  See the workflow file shared alongside this README (github-snake.yml).
-  Once the "output" branch exists, this will render automatically.
--->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sultanofficial717/sultanofficial717/output/github-snake-dark.svg">
@@ -280,144 +113,133 @@ Academic work in cryptography and cybersecurity, plus large-scale data science f
   </picture>
 </p>
 
-</details>
+<br/>
 
-<br>
+#
 
-## 🚀 Featured Projects
+## 🧪 Research & Publications
 
-<details open>
-<summary>Click to expand project list</summary>
+**Co-author — Multimodal Retrieval-Augmented Generation Systems** · Jun 2025 – Present
+Cradle Labs, Islamabad · *Under review*
+Investigating multimodal document ingestion and cross-modal retrieval for LLM response grounding; literature review, experiment design, and empirical benchmarking.
+
+**DSPD: Device-Bound Stateless Password Derivation**
+Argon2id + HKDF-SHA256 cryptographic scheme, published as a Python package on PyPI. Co-authored with Adil Khan · Elsevier submission, Major Revision.
+
+**Ransomware Detection Survey**
+Comprehensive survey targeting Q1 venues (IEEE CS, ACM CSUR). Co-authored with Adil Khan · Major Revision.
+
+#
+
+## 💼 Experience
+
+| Role | Organization | When |
+|---|---|---|
+| AI Research Intern | FAST-NUCES, Islamabad | 2025 – Present |
+| Volunteer Research Assistant | Cradle Labs, Islamabad | Jun 2025 – Sep 2025 |
+| AI Research Intern | Center of Excellence in AI (CEAI), E-8 Islamabad | Sep 2024 – Nov 2024 |
+| Social Media & Analytics Intern | U-Capacity, Rawalpindi | Aug 2024 – Nov 2024 |
+
+#
+
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌎 Brazil Energy Forecasting Pipeline
-Large-scale research system fusing a ~490K-file Portuguese news corpus with CMO/PLD electricity price data to predict 45-day price deviations across Brazil's four CCEE submarkets. GPU-accelerated translation, NLP feature extraction, and multi-label topic classification.
-
-`NLLB-200` `spaCy` `FinBERT` `Gemini Embeddings` `Attention Fusion`
+**🌎 Brazil Energy Market Forecasting**
+~490K scraped Portuguese energy-news articles filtered to ~30K docs via MinHash/LSH dedup, translated with NLLB, topic-labeled with Gemini, sentiment-scored with FinBERT, merged with PLD/CMO price data for a 45-day forecasting model across Brazil's four CCEE submarkets. *Modeling/evaluation stage.*
+`NLLB` `Gemini` `FinBERT` `RandomForest`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 AutismLens
-Multimodal AI system for interpreting autism-screening signals — final year project combining vision and language models for clinically-informed assistive analysis.
-
-`Multimodal AI` `Computer Vision` `NLP` `FastAPI`
+**🧩 AutismLens**
+Multimodal intake (form/PDF/photo) with OCR + OpenCV mark detection over screening sheets, grounded via a Sentence-BERT + ChromaDB RAG pipeline to reduce hallucination in generated interpretive reports. *FYP-I proposal stage.*
+`FastAPI` `LangChain` `Sentence-BERT` `ChromaDB` `OpenCV`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Multimodal RAG
-Enterprise-grade retrieval-augmented generation system handling both document and image inputs.
-
-`LangGraph` `LangChain` `ChromaDB` `Gemini`
+**🔎 RAG Pipeline with LangChain & Pinecone**
+End-to-end RAG: ingestion, chunking, embedding, and semantic search over 1,000+ document chunks. Sub-300ms average query latency, deployed via FastAPI with a Streamlit frontend.
+`LangChain` `Pinecone` `FastAPI` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 EducationGate 360°
-Semantic talent-matching platform connecting Pakistani students with opportunities using sentence embeddings and vector search.
+**📰 SmartNews Analytics**
+Unsupervised news clustering using TF-IDF + UMAP over 5,000+ articles. Silhouette score of 0.61, validated via manual review.
+`scikit-learn` `TF-IDF` `UMAP`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 EducationGate 360°**
+Semantic talent/opportunity-matching platform for students — Sentence-BERT + ChromaDB backend on FastAPI, full Next.js/TypeScript frontend, third-party scholarship API integration.
 `Sentence-BERT` `ChromaDB` `FastAPI` `Next.js`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 👓 Smart AI Glasses
-Assistive computer vision device for visually impaired users, combining real-time object detection with voice guidance.
-
-`Object Detection` `OCR` `Computer Vision` `Voice`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Whitelabel AI Agency OS
-Internal platform under active design for HAT Technologies — a reusable operating layer for running multi-client AI agent workflows.
-
-`LLM Orchestration` `Multi-tenant` `Agents`
+**🇩🇪 EduHire — German Course Finder**
+Full-stack platform for filtering German university programs across 200+ listings, with authentication, admin panel, and advanced filtering.
+`Flask` `SQL` `HTML/CSS`
 
 </td>
 </tr>
 </table>
 
-</details>
+#
 
-<br>
+## 🌟 Leadership & Community
 
-## 📄 Research & Publications
+- **Lead & Founder, Tech Fusion / AI Club** — Bahria University Islamabad (2025–Present): founded the campus tech event brand, led 50+ volunteers, ran events for 350+ participants, secured sponsorships for two consecutive events.
+- **Organizer, "The Two AI" Interdisciplinary Panel** — Bahria University Islamabad (2024): coordinated an AI × philosophy panel with international speakers.
+- OpenAI Ambassador · GDG Islamabad community member
 
-<details open>
-<summary>Click to expand publications</summary>
+#
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🎓 Education
 
-### 🔐 DSPD: Device-Bound Stateless Password Derivation
-Cryptographic scheme using **Argon2id** and **HKDF-SHA256** for stateless, device-bound password derivation. Includes formal security proofs and hardware-benchmarked experiments. Published as a Python package on PyPI.
+**Bahria University Islamabad** — BS Artificial Intelligence · Sep 2023 – Expected Jul 2027 · CGPA 3.09/4.0
+Coursework: Machine Learning, Computer Vision, NLP, Databases, Statistics, OOP, Data Structures
 
-`Cryptography` `Security`
-Co-authored with Adil Khan • Submitted to an Elsevier journal — Major Revision, Likely Accept
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Ransomware Survey Paper
-A comprehensive survey on ransomware detection and defense mechanisms, targeting top-tier venues.
-
-`Cybersecurity` `Survey`
-Co-authored with Adil Khan • Major Revision, Likely Accept — Targeting Q1 venues (IEEE CS, ACM CSUR)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br>
-
-## 📖 Currently Learning
+<h1 align="center">
+  Connect With Me
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Readme/main/emojis/handshake.gif" height="28px"/>
+</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Agentic_AI-6366F1?style=flat-square">
-<img src="https://img.shields.io/badge/Model_Context_Protocol-6366F1?style=flat-square">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-6366F1?style=flat-square">
-<img src="https://img.shields.io/badge/Production_RAG-6366F1?style=flat-square">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(40%) sepia(80%) saturate(1000%) hue-rotate(190deg);"/>
+  </a>
+  <a href="mailto:talharehman717@gmail.com" target="_blank">
+    <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" style="filter: invert(20%) sepia(90%) saturate(3000%) hue-rotate(-10deg);"/>
+  </a>
+  <a href="https://github.com/sultanofficial717" target="_blank">
+    <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" style="filter: invert(0%);"/>
+  </a>
+  <a href="https://hattechnologies.tech" target="_blank">
+    <img height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/todoist.svg" style="filter: invert(35%) sepia(90%) saturate(2000%) hue-rotate(220deg);"/>
+  </a>
 </p>
 
-<br>
-
-## 🎯 2026 Goals
-
-- [ ] Publish AI research in a Q1 venue
-- [ ] Ship AutismLens and the whitelabel AI agency OS to production
-- [ ] Contribute meaningfully to open source
-- [ ] Master cloud-native AI deployment
-- [ ] Compete in an international hackathon
-
-<br>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/sultanofficial717"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://hattechnologies.tech"><img src="https://img.shields.io/badge/HAT_Technologies-000000?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-  <a href="https://www.upwork.com/freelancers/YOUR_UPWORK_HANDLE"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
-</p>
+<br/>
 
 <div align="center">
 
-> *"Artificial Intelligence is not about replacing humans — it's about amplifying human potential."*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0F172A&height=100&section=footer">
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+
+#
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:0F172A&height=120&section=footer"/>
