@@ -22,7 +22,6 @@
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=sultanofficial717&style=flat&color=6366F1"/> •
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/sultanofficial717?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/sultanofficial717?label=Stars" alt="Total Stars"/> •
-  <img src="https://img.shields.io/badge/OpenAI_Ambassador-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
 
 #
